@@ -1,1 +1,4 @@
-# Analisis de sistemas taller 1
+# Analisis de sistemas
+#ScrumSquad
+#____________________________
+#Grupo de trabajo 2
